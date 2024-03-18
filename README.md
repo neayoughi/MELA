@@ -1,6 +1,6 @@
 # MELA
 ML-Enhanced Learning of Automata
-# [Enhancing Automata Learning with Statistical Machine Learning: A Network Security Case Study]
+# Enhancing Automata Learning with Statistical Machine Learning: A Network Security Case Study
 
 ## MELA (Machine Learning-Enhanced Automata Learning) Approach
 
