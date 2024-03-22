@@ -8,7 +8,7 @@ The MELA approach is a method for learning state machine models for network secu
 ## Testbed
 Our testbed uses a commercial service router for network intrusion detection, developed by [RabbitRun Technologies (RRT)](https://www.rabbit.run/). The goal is to model the behaviour of this router at a system level. We simulate various network flows that represent both normal and attack scenarios.
 
-![Testbed Image](URL_OF_TESTBED_IMAGE) <!-- Replace URL_OF_TESTBED_IMAGE with the actual URL where your testbed image is hosted -->
+![Testbed Image](Setting.png) <!-- Replace URL_OF_TESTBED_IMAGE with the actual URL where your testbed image is hosted -->
 
 
 ## Tools
