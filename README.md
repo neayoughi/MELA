@@ -1,6 +1,7 @@
 # Enhancing Automata Learning with Statistical Machine Learning: A Network Security Case Study
 
-# MELA (Machine Learning-Enhanced Automata Learning) Approach
+# MELA 
+(Machine Learning-Enhanced Automata Learning) 
 
 ## Overview
 The MELA approach is a method for learning state machine models for network security systems using time-series inputs and outputs. It leverages machine learning (ML) to abstract raw numeric network data into discrete intervals. These intervals correlate with the system's output regarding intrusion detection.
