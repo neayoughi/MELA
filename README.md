@@ -27,7 +27,7 @@ Our setup consists of three virtual machines (VMs), each deployed on a separate 
 - VM-centre hosts the RRT router (RRTRouter).
 - VM-right simulates external users and generates both normal traffic and DoS/DDoS packets using hping3.
 
-![Configuration Image](URL_OF_CONFIGURATION_IMAGE) <!-- Replace URL_OF_CONFIGURATION_IMAGE with the actual URL where your configuration image is hosted -->
+![Configuration Image](Testbed2.png) <!-- Replace URL_OF_CONFIGURATION_IMAGE with the actual URL where your configuration image is hosted -->
 
 
 ## Content Description
