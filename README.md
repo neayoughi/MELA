@@ -17,7 +17,7 @@ The following tools and resources are used in our testbed:
 - Virtual Box 6.1 - [More Info](https://www.virtualbox.org/wiki/Downloads)
 - Ubuntu 20.04 disc image - [Download](https://ubuntu.com/download/desktop)
 - Kali Linux - [More Info](https://www.kali.org/)
-- Hping3 - [More Info](http://www.hping.org/)
+- hping3 - [More Info](http://www.hping.org/)
 - Metasploitable - [More Info](https://sourceforge.net/projects/metasploitable/)
 
 
