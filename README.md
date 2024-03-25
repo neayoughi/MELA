@@ -19,6 +19,7 @@ The following tools and resources are used in our testbed:
 - Kali Linux - [More Info](https://www.kali.org/)
 - hping3 - [More Info](http://www.hping.org/)
 - Metasploitable - [More Info](https://sourceforge.net/projects/metasploitable/)
+- AALpy - [More Info](https://des-lab.github.io/AALpy/)
 
 
 ## Testbed Configuration
