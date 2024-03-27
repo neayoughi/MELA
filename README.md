@@ -38,5 +38,12 @@ In this repository, we publish our implementations and experimental data. Please
 - `Code`: Contains shell scripts (container.sh, hping.sh, hping_traffic.sh) for generating inputs with hping3, sending normal and attack flows, and includes the MELA code and baseline routines.
 - `Data`: Includes input/output data, learning sets, and abstractions with labels for numeric network data and traces.
 - `Evaluation`: Includes codes used for research question 1 and the test set.
-- `Results`: This folder is divided into two subfolders, `RQ1` and `LearnedModel`, containing the outcomes of research question 1 related to Complexity and Conformance.
-  
+- `Results`: This directory is organized into several subfolders, each containing specific types of results:
+  - `RQ1`: Includes the results of [sequence](Evalution/Test%20set) execution on the learned models addressing research question 1, related to the complexity and conformance aspects.
+  - `RQ2`: Contains the outcomes of model-checking for temporal properties that have been formulated based on the RRTRouter's requirements. Additionally, it includes exploratory analyses on RRTRouter's behavior using temporal queries.
+  - `LearnedModel`: Contains [state machines](Results/LearnedModel) learned by MELA and the Manual baseline. For example, the figure below shows the Moore machine for the DDoS learning set, with '2nd' configuration, and abstracted by MELA:
+      ![Moore Machine for DDoS](SM_DDoS_2nd_MELA.png) 
+
+
+In the depicted state machine, system outputs are annotated on the states, and transitions are labelled either as attack or normal flow ('D' for DDoS and 'N' for Normal), alongside the level of flow abstraction ('L' for Low, 'M' for Medium, 'H' for High).
+
